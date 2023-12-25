@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Hirun+Mihisara+Kariyawasam;From+Galle,+Sri+Lanka.;(UG)+University+Of+Colombo+School+Of+Computing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaiyawasam Kavinda Gimhan;From+Galle,+Sri+Lanka.;(UG)+University+Of+Lanka Nippon BizTech Instiute+(LNBT)+Of+Software Engineering(Hons)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hirun4&label=Profile%20views&color=0e75b6&style=flat" alt="Hirun4" /> </p>
 
-- 💛🖤I'm from **Mahinda College,Galle**
+- 💛🖤I'm from **Richmond College,Galle**
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 👨‍💻 All of my projects are available at **this Accoount**
 
