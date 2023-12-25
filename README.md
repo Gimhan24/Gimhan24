@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+KaiyawasamKavindaGimhan;From+Galle,+Sri+Lanka.;(UG)+University+Of+Lanka Nippon BizTech Instiute+(LNBT)+Of+Software Engineering(Hons)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Kariyawasam+Kavinda+Gimhan;From+Galle,+Sri+Lanka.;(UG)+University+Of+Lanka+Nippon+BizTech+Institute+Of+Software+Engineering)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hirun4&label=Profile%20views&color=0e75b6&style=flat" alt="Hirun4" /> </p>
 
